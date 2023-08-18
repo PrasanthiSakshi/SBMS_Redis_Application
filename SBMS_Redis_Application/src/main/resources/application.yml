@@ -1,0 +1,2 @@
+redis:
+   password: ${REDIS_SECRET_KEY:}
